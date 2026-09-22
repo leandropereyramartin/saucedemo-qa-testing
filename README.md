@@ -54,7 +54,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    cd saucedemo-qa-testing
   ```
 3. Install project dependencies:
-   ```bash
+ 
    npm install
  ```
  ### Execution Commands
@@ -64,7 +64,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
    npx cypress open
  ```
 2-Run Headless Execution (CLI / CI-ready):
-  ```bash
+  
   npx cypress run
  ```
 
