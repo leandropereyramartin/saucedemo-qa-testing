@@ -47,24 +47,24 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/leandropereyramartin/saucedemo-qa-testing.git](https://github.com/leandropereyramartin/saucedemo-qa-testing.git)
+   git clone https://github.com/leandropereyramartin/saucedemo-qa-testing.git
    ```
 2. Navigate to the project folder:
    ```bash
    cd saucedemo-qa-testing
-  ```
+  
 3. Install project dependencies:
- 
+  ```
    npm install
- ```
+  ```
  ### Execution Commands
 
 1. Run Interactive Test Runner (GUI):
    ```bash
    npx cypress open
- ```
+ 
 2-Run Headless Execution (CLI / CI-ready):
-  
+   ```
   npx cypress run
  ```
 
