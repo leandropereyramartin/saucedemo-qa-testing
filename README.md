@@ -24,7 +24,7 @@ Screenshots of failed tests are saved as downloadable artifacts.
 - **Automation Framework**: Cypress 16.x
 - **Runtime Environment**: Node.js (v24.x)
 - **Programming Language**: JavaScript (ES6+)
-- **Version Control**: Git & GitHub
+- **Version Control**: Git & GitHub | * CI/CD: GitHub Actions
 - **IDE**: Visual Studio Code
 
 ---
@@ -75,6 +75,5 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 ## ✉️Contact & Portfolio
 **Leandro Pereyra**
 
-QA Automation & Quality Assurance Specialist
-
+Junior QA Analyst | Test Automation (Cypress)
 GitHub: @leandropereyramartin
