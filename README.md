@@ -1,7 +1,11 @@
 # SauceDemo E2E Test Automation Suite (Cypress)
+![Cypress Tests](https://github.com/leandropereyramartin/saucedemo-qa-testing/actions/workflows/cypress.yml/badge.svg)
 
 This repository contains an end-to-end (E2E) automated testing suite built with **Cypress** for the [SauceDemo](https://www.saucedemo.com/) e-commerce platform. It integrates both manual QA documentation and automation engineering practices to demonstrate a complete Quality Assurance lifecycle.
 
+## CI/CD
+Tests run automatically on every push and pull request using GitHub Actions.
+Screenshots of failed tests are saved as downloadable artifacts.
 ---
 
 ## 📋 Project Structure & QA Artifacts
